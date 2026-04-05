@@ -1,0 +1,40 @@
+# =========================
+# FRONTEND (React + Vite)
+# =========================
+node_modules/
+dist/
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# BACKEND (.NET Core)
+# =========================
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Visual Studio files
+.vs/
+*.csproj.user
+*.sln
+
+# =========================
+# OS / SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE FILES
+# =========================
+.vscode/
+.idea/
