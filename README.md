@@ -1,7 +1,8 @@
 # Vault — Production File Upload & Analysis System
 
 A full-stack application for uploading CSV/Excel files, analysing production data, and sending daily summaries to Microsoft Teams.
-[Link]([https://1drv.ms/v/c/a0d8154fcc783135/IQAZj4anPsKESZ1S-4WMa5AwAUV1DZi--LaT84-7sK0T-yU?e=lEKcZh])
+Visit [OpenAI](https://openai.com).
+[Link](https://1drv.ms/v/c/a0d8154fcc783135/IQAZj4anPsKESZ1S-4WMa5AwAUV1DZi--LaT84-7sK0T-yU?e=lEKcZh)
 ---
 
 ## Table of Contents
