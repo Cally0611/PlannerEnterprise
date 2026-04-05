@@ -1,0 +1,21 @@
+﻿Date,Machine,Target (set by HQ),Actual (produced by local plant)
+4/5/2026,Machine1,500,350
+4/5/2026,Machine2,600,450
+4/5/2026,Machine3,700,550
+4/5/2026,Machine4,500,650
+4/5/2026,Machine5,600,750
+4/5/2026,Machine6,700,850
+4/5/2026,Machine7,1000,950
+4/5/2026,Machine8,200,300
+4/5/2026,Machine9,600,735
+4/5/2026,Machine10,700,710
+4/6/2026,Machine1,600,450
+4/6/2026,Machine2,700,550
+4/6/2026,Machine3,500,650
+4/6/2026,Machine4,600,750
+4/6/2026,Machine5,700,850
+4/6/2026,Machine6,1000,950
+4/6/2026,Machine7,200,300
+4/6/2026,Machine8,600,735
+4/6/2026,Machine9,700,550
+4/6/2026,Machine10,500,650
